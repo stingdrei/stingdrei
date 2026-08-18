@@ -26,14 +26,7 @@
   <div class="sec">
     <div class="sec-label">About</div>
     <div class="about-grid">
-      <div class="ai">🔭 Building <strong>a full-stack learning module system</strong></div>
-      <div class="ai">🌱 Studying <strong>System Design, Web Dev & LLMs</strong></div>
-      <div class="ai">🏫 Student at <strong>University of St. La Salle, Bacolod</strong></div>
-      <div class="ai">🤝 Open to <strong>open-source collaboration</strong></div>
-      <div class="ai">⚙️ Interested in <strong>backend architecture & scalable APIs</strong></div>
-      <div class="ai">💬 Ask me about <strong>Python, Java, or React</strong></div>
       <div class="ai">📫 Email: <a href="mailto:jugadomichael@gmail.com">jugadomichael@gmail.com</a></div>
-      <div class="ai">⚡ Believe that <strong>competence compounds — ship, learn, improve</strong></div>
     </div>
   </div>
 
