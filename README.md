@@ -14,10 +14,6 @@
       I'm on a deliberate path toward software engineering — writing code that doesn't just run today,
       but <strong>scales, holds up under load, and makes sense to the next developer who touches it</strong>.
     </p>
-    <div class="mission">
-      <strong>Mission:</strong> Graduate as a competent software engineer who produces scalable systems —
-      clean APIs, resilient backends, and software that can grow without collapsing under its own weight.
-    </div>
     <div class="badges">
       <span class="badge blue">🎓 BS Computer Science · USLS Bacolod</span>
       <span class="badge green">🟢 Open to Internships · 2025</span>
