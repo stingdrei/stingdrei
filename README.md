@@ -19,7 +19,7 @@
       <span class="badge green"> Open to Internships · 2025</span>
       <span class="badge teal"> Building scalable systems</span>
       <span class="badge purple"> Bacolod City, PH</span>
-      <span class="ai">📫 Email: <a href="mailto:jugadomichael@gmail.com">jugadomichael@gmail.com</a></span>
+      <span class="badge red"> <a href="mailto:jugadomichael@gmail.com">jugadomichael@gmail.com</a></span>
     </div>
   </div>
 </body>
