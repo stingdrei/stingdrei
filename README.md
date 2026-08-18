@@ -16,9 +16,9 @@
     </p>
     <div class="badges">
       <span class="badge blue"> BS Computer Science · USLS Bacolod</span>
-      <span class="badge green"> Open to Internships · 2025</span>
-      <span class="badge teal"> Building scalable systems</span>
-      <span class="badge purple"> Bacolod City, PH</span>
+      <span class="badge green"> Open to Internships · 2026 ·</span>
+      <span class="badge teal"> Building scalable systems ·</span>
+      <span class="badge purple"> Bacolod City, PH ·</span>
       <span class="badge red"> <a href="mailto:jugadomichael@gmail.com">jugadomichael@gmail.com</a></span>
     </div>
   </div>
